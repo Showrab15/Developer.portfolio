@@ -68,7 +68,7 @@ font-size: 85px;
 .banner-description{
     color: #757575;
     font-size: 18px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 /* main section */
@@ -78,7 +78,6 @@ main {
     width: 1140px;
     height: 550px;
     left: 230px;
-    top: 1043px;
 }
 
 section{
