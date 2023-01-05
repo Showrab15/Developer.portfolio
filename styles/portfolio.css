@@ -77,7 +77,8 @@ main {
     position: absolute;
     width: 1140px;
     height: 550px;
-    left: 230px;
+    left: 180px;
+    right: 180px;
 
 }
 
